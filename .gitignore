@@ -1,0 +1,53 @@
+# ==========================
+# Python cache and temp files
+# ==========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+env/
+venv/
+
+# ==========================
+# LaTeX build junk
+# ==========================
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.nav
+*.snm
+
+# ==========================
+# OS / Editor junk
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ==========================
+# Archives
+# ==========================
+*.zip
+*.tar
+*.tar.gz
+
+# ==========================
+# Project-specific notes
+# ==========================
+# KEEP the output folder (do not ignore)
+# MVHristov_6D_UFT_outputs/
