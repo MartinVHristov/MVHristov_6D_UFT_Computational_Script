@@ -13,6 +13,9 @@ validation plots.
 Folder Contents
 ---------------
 
+MVHristov_6D_UFT_Complete (archive contains all needed files).rar
+    Contains all files of the repository so you can get them with a single download.
+
 MVHristov_6D_UFT_Complete.pdf  
     The full scientific paper describing the complete 6D Unified Field Theory.
     Topics include:
